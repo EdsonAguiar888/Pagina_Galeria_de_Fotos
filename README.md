@@ -32,10 +32,22 @@ O projeto foi criado com foco em praticar o consumo de APIs externas, manipulaç
 - **Unsplash API**  
   Permite acessar um vasto banco de imagens de alta qualidade de forma gratuita.
 
-📌 Para utilizar a API, é necessário:
+### 📌 Para utilizar a API, é necessário:
 1. Criar uma conta em: https://unsplash.com/developers  
 2. Gerar uma **Access Key**  
-3. Inserir a chave no código JavaScript para autenticação das requisições  
+3. Inserir a chave no código JavaScript para autenticação das requisições
+
+### 📌 Passo a Passo para obter a chave:
+
+A chave da API do Unsplash, conhecida como "Access Key", pode ser encontrada no painel de controle do desenvolvedor do Unsplash, na seção "Keys" (Chaves) de um aplicativo que você registrar. 
+Para encontrá-la, siga estes passos:
+
+1. Acesse o Unsplash Developer Portal e faça login em sua conta. Se ainda não tiver uma conta, você precisará criar uma.
+2. No painel do desenvolvedor, navegue até a seção "Your Apps" (Seus Aplicativos).
+3. Você precisará registrar um novo aplicativo clicando em "New Application" (Nova Aplicação) e concordando com os termos de uso da API. Se você já tem um aplicativo registrado, clique nele para ver os detalhes.
+4. Na página de detalhes do seu aplicativo, role para baixo até a seção "Keys".
+5. Lá, você encontrará sua "Access Key" (Chave de Acesso) e, necessário para o seu projeto. 
+   A "Access Key" é o que você usará na maioria das integrações para autenticar suas solicitações à API do Unsplash. 
 
 ---
 
