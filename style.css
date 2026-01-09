@@ -37,3 +37,20 @@ button { padding: 8px 20px; cursor: pointer; background: #007bff; color: white; 
 }
 
 .grid-container img:hover { transform: scale(1.05); }
+
+
+
+footer {
+    margin-top: 50px;
+    padding: 20px 0;
+    border-top: 1px solid #ddd;
+    text-align: center;
+    color: #666;
+    background-color: #fff;
+    width: 100%;
+}
+
+footer p {
+    font-size: 0.9rem;
+    margin: 0;
+}
