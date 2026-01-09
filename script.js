@@ -1,9 +1,12 @@
-/**'jpdSQ1cvnKe1S6EhrrSwG1NzKFBTrdKznRtSoiZwJdI'
+/**
  * Configurações da API
  * Para obter sua chave, acesse: https://unsplash.com/developers
  */
 
-const API_KEY = 'jpdSQ1cvnKe1S6EhrrSwG1NzKFBTrdKznRtSoiZwJdI'; 
+// const API_KEY = 'SUA_CHAVE_AQUI';  
+const API_KEY = ' jpdSQ1cvnKe1S6EhrrSwG1NzKFBTrdKznRtSoiZwJdI '; 
+
+
 const searchInput = document.getElementById('searchInput');
 const searchBtn = document.getElementById('searchBtn');
 const featuredPhoto = document.getElementById('featuredPhoto');
