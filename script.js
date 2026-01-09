@@ -4,9 +4,7 @@
  */
 
 // const API_KEY = 'SUA_CHAVE_AQUI';  
-const API_KEY = ' jpdSQ1cvnKe1S6EhrrSwG1NzKFBTrdKznRtSoiZwJdI '; 
-
-
+const API_KEY = 'lGTYhqPwNEph7jvvWIg-UOahnnii0KmjOhNqaqHSSQY'; 
 const searchInput = document.getElementById('searchInput');
 const searchBtn = document.getElementById('searchBtn');
 const featuredPhoto = document.getElementById('featuredPhoto');
